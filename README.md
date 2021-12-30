@@ -1,4 +1,5 @@
 # Fake-Review-Kaggle
+Datasets available on Kaggle:
 https://www.kaggle.com/c/fake-review-competition
 
 Train:  python3 -u fakeorreal.py --train reviews_train.csv --validation reviews_validation.csv
